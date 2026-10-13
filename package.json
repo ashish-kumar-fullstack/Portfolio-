@@ -1,15 +1,19 @@
 {
   "name": "ashish-kumar-portfolio",
   "version": "2.0.0",
-  "description": "Personal portfolio of Ashish Kumar, a full stack developer building responsive web applications.",
-  "author": "Ashish Kumar Fullstack",
+  "description": "Portfolio of Ashish Kumar Prajapati, a full-stack website developer in Muzaffarnagar building responsive websites and web applications.",
+  "author": "Ashish Kumar Prajapati",
   "license": "MIT",
   "homepage": "https://ashishkumar-code.github.io/",
   "scripts": {
     "build": "node build.mjs"
   },
   "keywords": [
-    "Ashish Kumar",
+    "Ashish Kumar Prajapati",
+    "Ashish Kumar Muzaffarnagar",
+    "Ashish Prajapati Muzaffarnagar",
+    "web developer in Muzaffarnagar",
+    "website developer Muzaffarnagar",
     "full stack developer",
     "React developer",
     "Node.js developer",
